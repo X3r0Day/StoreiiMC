@@ -5,10 +5,10 @@
 # ---------------------------------------------------------------------------------- #
 
 
-#####################################################################################################################
+#######################################################################################################################
 # - THIS VERSION IS INTENDED TO WORK ON 1.21 VERSION, YOU CAN CHANGE VERSION BY EDITING "dataVersion"L:39 VARIABLE    #
-# - Minecraft Data Store stores data as MAPS in minecraft, which can be decoded back to original file!                #
-#####################################################################################################################
+# - Data is stored as noise maps in MAPS in minecraft, which can be decoded back to original file!                    #
+#######################################################################################################################
 
 
 '''This script will encode and build map to store in minecraft!'''
